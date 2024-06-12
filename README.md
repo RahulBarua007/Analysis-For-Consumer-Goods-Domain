@@ -1,5 +1,6 @@
 # Analysis-For-Consumer-Goods-Domain
 This is Challenge 4, organized by Codebasics and Atliq Technologies in the consumer goods domain.
+[Video Presentation](https://youtu.be/ewq0ejzYycg)
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
